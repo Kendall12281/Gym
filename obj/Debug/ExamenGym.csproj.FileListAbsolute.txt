@@ -1,0 +1,178 @@
+C:\Users\Alexander\OneDrive - Universidad Técnica Nacional\ISW-411 Programación III\5. Examenes\2021\Q3-Ex2\ExamenGym\obj\Debug\ExamenGym.csprojAssemblyReference.cache
+C:\Users\Alexander\OneDrive - Universidad Técnica Nacional\ISW-411 Programación III\5. Examenes\2021\Q3-Ex2\ExamenGym\obj\Debug\ExamenGym.frmPrincipal.resources
+C:\Users\Alexander\OneDrive - Universidad Técnica Nacional\ISW-411 Programación III\5. Examenes\2021\Q3-Ex2\ExamenGym\obj\Debug\ExamenGym.Layeres.UI.frmRegistrar.resources
+C:\Users\Alexander\OneDrive - Universidad Técnica Nacional\ISW-411 Programación III\5. Examenes\2021\Q3-Ex2\ExamenGym\obj\Debug\ExamenGym.Layeres.UI.frmRutinas.resources
+C:\Users\Alexander\OneDrive - Universidad Técnica Nacional\ISW-411 Programación III\5. Examenes\2021\Q3-Ex2\ExamenGym\obj\Debug\ExamenGym.Properties.Resources.resources
+C:\Users\Alexander\OneDrive - Universidad Técnica Nacional\ISW-411 Programación III\5. Examenes\2021\Q3-Ex2\ExamenGym\obj\Debug\ExamenGym.csproj.GenerateResource.cache
+C:\Users\Alexander\OneDrive - Universidad Técnica Nacional\ISW-411 Programación III\5. Examenes\2021\Q3-Ex2\ExamenGym\obj\Debug\ExamenGym.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\OneDrive - Universidad Técnica Nacional\ISW-411 Programación III\5. Examenes\2021\Q3-Ex2\ExamenGym\bin\Debug\ExamenGym.exe.config
+C:\Users\Alexander\OneDrive - Universidad Técnica Nacional\ISW-411 Programación III\5. Examenes\2021\Q3-Ex2\ExamenGym\bin\Debug\ExamenGym.exe
+C:\Users\Alexander\OneDrive - Universidad Técnica Nacional\ISW-411 Programación III\5. Examenes\2021\Q3-Ex2\ExamenGym\bin\Debug\ExamenGym.pdb
+C:\Users\Alexander\OneDrive - Universidad Técnica Nacional\ISW-411 Programación III\5. Examenes\2021\Q3-Ex2\ExamenGym\obj\Debug\ExamenGym.exe
+C:\Users\Alexander\OneDrive - Universidad Técnica Nacional\ISW-411 Programación III\5. Examenes\2021\Q3-Ex2\ExamenGym\obj\Debug\ExamenGym.pdb
+C:\Users\Alexander\OneDrive - Universidad Técnica Nacional\ISW-411 Programación III\5. Examenes\2021\Q3-Ex2\ExamenGym\obj\Debug\ExamenGym.Layeres.UI.Reporte.frmRepRutinasPorCliente.resources
+C:\Users\Alexander\OneDrive - Universidad Técnica Nacional\ISW-411 Programación III\5. Examenes\2021\Q3-Ex2\ExamenGym\obj\Debug\RdlCompile.cache
+C:\Users\Alexander\OneDrive - Universidad Técnica Nacional\ISW-411 Programación III\5. Examenes\2021\Q3-Ex2\ExamenGym\obj\Debug\RdlCompile.compiled
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\ExamenGym.exe.config
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\ExamenGym.exe
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\ExamenGym.pdb
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\obj\Debug\ExamenGym.csproj.AssemblyReference.cache
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\obj\Debug\ExamenGym.frmPrincipal.resources
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\obj\Debug\ExamenGym.Layeres.UI.frmRegistrar.resources
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\obj\Debug\ExamenGym.Layeres.UI.frmRutinas.resources
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\obj\Debug\ExamenGym.Layeres.UI.Reporte.frmRepRutinasPorCliente.resources
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\obj\Debug\ExamenGym.Properties.Resources.resources
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\obj\Debug\ExamenGym.csproj.GenerateResource.cache
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\obj\Debug\ExamenGym.csproj.CoreCompileInputs.cache
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\obj\Debug\ExamenGym.exe
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\obj\Debug\ExamenGym.pdb
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\EnvDTE.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\stdole.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\obj\Debug\RdlCompile.cache
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\obj\Debug\RdlCompile.compiled
+C:\Users\Kendall\Downloads\ExamenGym - Estudiante(2)\ExamenGym - Estudiante\obj\Debug\ExamenGym.csproj.CopyComplete
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\ExamenGym.exe.config
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\ExamenGym.exe
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\ExamenGym.pdb
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\EnvDTE.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\stdole.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\obj\Debug\ExamenGym.csproj.AssemblyReference.cache
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\obj\Debug\ExamenGym.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\obj\Debug\ExamenGym.frmPrincipal.resources
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\obj\Debug\ExamenGym.Layeres.UI.frmRegistrar.resources
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\obj\Debug\ExamenGym.Layeres.UI.frmRutinas.resources
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\obj\Debug\ExamenGym.Layeres.UI.Reporte.frmRepRutinasPorCliente.resources
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\obj\Debug\ExamenGym.Properties.Resources.resources
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\obj\Debug\ExamenGym.csproj.GenerateResource.cache
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\obj\Debug\ExamenGym.csproj.CoreCompileInputs.cache
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\obj\Debug\ExamenGym.csproj.CopyComplete
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\obj\Debug\ExamenGym.exe
+C:\Users\Kendall\Desktop\ExamenGym - Estudiante\obj\Debug\ExamenGym.pdb
